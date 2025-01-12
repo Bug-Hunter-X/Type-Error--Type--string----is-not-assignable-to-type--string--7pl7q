@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: assigning an array of strings to a string variable.  The `greeter` function expects a single string, but the `user` variable is an array. This example shows the error and its solution using type assertion or type checking.
